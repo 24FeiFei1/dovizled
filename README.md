@@ -9,6 +9,8 @@ Proje dizinine gidin
 
 ## Python bölümü
 
+cmdyi proje dizininde açın
+
 Gerekli paketleri yükleyin
 
 ```bash
