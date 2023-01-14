@@ -1,8 +1,6 @@
 
 ## Nasıl kurulur
 
-Projeyi klonlayın
-
 Bu dosyayı indirin: https://github.com/24FeiFei1/dovizled/archive/refs/heads/main.zip
 
 Zipten çıkartın
