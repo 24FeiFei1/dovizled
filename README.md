@@ -33,9 +33,9 @@ Python dosyasını çalıştırın
 
 ## Nasıl kullanılır
 
-- Aygıt yöneticisinden arduino portunu bulup buraya yazın
+- Pythondan terminaline örnek apiyi kopyalayıp yapıştırın
 
-- Pythondan terminaline örnek apiyi yapıştırın
+- Aygıt yöneticisinden arduino portunu bulup buraya yazın
 
 - İstediğiniz değerleri girin
 
