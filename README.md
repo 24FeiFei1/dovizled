@@ -1,9 +1,7 @@
 
 ## Nasıl kurulur
 
-Bu dosyayı indirin: [Dovizled 🔰]: https://github.com/24FeiFei1/dovizled/archive/refs/heads/main.zip
-[here](myLib/README.md)
-
+Bu dosyayı indirin: [Dovizled 🔰](https://github.com/24FeiFei1/dovizled/archive/refs/heads/main.zip)
 
 ## Arduinoya kodu yüklemek ve programı çalıştırmak
 
