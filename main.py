@@ -79,13 +79,13 @@ def check_exchange_rate():
         global last_exchange_rate
         if ser is not None:
             if exchange_rate > last_exchange_rate:
-                send_message(ser, "Green")
+                send_message(ser, "G\n")  # "\n" satır sonu karakterini ekleyin
                 root.configure(background="green")
             elif exchange_rate < last_exchange_rate:
-                send_message(ser, "Red")
+                send_message(ser, "R\n")  # "\n" satır sonu karakterini ekleyin
                 root.configure(background="red")
             else:
-                send_message(ser, "Same")
+                send_message(ser, "Same\n")  # "\n" satır sonu karakterini ekleyin
 
         last_exchange_rate = exchange_rate
         if ser is not None:
